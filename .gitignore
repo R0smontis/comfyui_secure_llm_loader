@@ -1,0 +1,16 @@
+# 真实密钥文件，永远不要提交 / never commit real keys
+llm_api_keys.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

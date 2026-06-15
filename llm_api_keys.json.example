@@ -1,0 +1,22 @@
+{
+  "deepseek-chat": {
+    "model_name": "deepseek-chat",
+    "base_url": "https://api.deepseek.com/v1/",
+    "api_key": "sk-PUT-YOUR-DEEPSEEK-KEY-HERE"
+  },
+  "glm-4": {
+    "model_name": "glm-4",
+    "base_url": "https://open.bigmodel.cn/api/paas/v4/",
+    "api_key": "PUT-YOUR-ZHIPU-KEY-HERE"
+  },
+  "qwen-max": {
+    "model_name": "qwen-max",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1/",
+    "api_key": "PUT-YOUR-DASHSCOPE-KEY-HERE"
+  },
+  "gpt-4o-mini": {
+    "model_name": "gpt-4o-mini",
+    "base_url": "https://api.openai.com/v1/",
+    "api_key": "sk-PUT-YOUR-OPENAI-KEY-HERE"
+  }
+}

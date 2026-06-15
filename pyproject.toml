@@ -1,0 +1,15 @@
+[project]
+name = "comfyui_secure_llm_loader"
+description = "Secure API loader for comfyui_LLM_party: load model/base_url/api_key from a local JSON file by a profile name, so the api_key is never saved into the workflow or leaked through PNG metadata."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/R0smontis/comfyui_secure_llm_loader"
+# Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "R0smontis"
+DisplayName = "Secure LLM API Loader"
+Icon = ""
