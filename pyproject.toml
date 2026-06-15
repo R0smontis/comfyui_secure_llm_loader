@@ -10,6 +10,6 @@ Repository = "https://github.com/R0smontis/comfyui_secure_llm_loader"
 # Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = "R0smontis"
+PublisherId = "r0smontis"
 DisplayName = "Secure LLM API Loader"
 Icon = ""

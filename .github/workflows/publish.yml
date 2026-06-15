@@ -15,7 +15,6 @@ jobs:
   publish-node:
     name: Publish Custom Node to Comfy Registry
     runs-on: ubuntu-latest
-    if: ${{ github.repository_owner == 'R0smontis' }}
     steps:
       - name: Check out code
         uses: actions/checkout@v4
